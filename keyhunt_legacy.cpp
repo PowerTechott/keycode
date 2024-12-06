@@ -1,6 +1,6 @@
 /*
-Develop by Alberto
-email: albertobsd@gmail.com
+Develop by keycode
+email: keycode2025@gmail.com
 */
 
 #include <stdio.h>
